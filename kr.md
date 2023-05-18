@@ -1,0 +1,1 @@
+papka1(Lab7_one)
